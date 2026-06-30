@@ -2,7 +2,7 @@ name: Hidencloud Auto Renew New
 
 on:
   schedule:
-    - cron: '0 2 * * 0'
+    - cron: '0 2 * * 5'
 
   workflow_dispatch:
 
